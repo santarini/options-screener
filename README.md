@@ -32,7 +32,7 @@ Assumption 2:
 - [x] Get historical stock data
 - [ ] Get monthly data
 - [ ] Get historical earnings release dates
-- [ ] Monte Carlo forecast
+- [ ] <a href="https://github.com/santarini/montecarlo">Monte Carlo forecast</a>
 - [ ] Organize monthly data into seasonal data
 
 Assumption 3:
