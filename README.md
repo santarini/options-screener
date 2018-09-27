@@ -14,6 +14,8 @@ An option contract’s strike and premium together at a specific expiration are 
 
 Given assumptions 1 and 2, if the forecasted price exceeds the markets expected price, a mispricing exists.
 
+The option contracts with the greatest mispricing are thus the most undervalued options.
+
 # Tasks
 
 Assumption 1:
