@@ -29,8 +29,9 @@ Assumption 1:
 
 Assumption 2:
 
-- [ ] Get historical stock data
+- [x] Get historical stock data
 - [ ] Get monthly data
+- [ ] Get historical earnings release dates
 - [ ] Organize monthly data into seasonal data
 
 Assumption 3:
