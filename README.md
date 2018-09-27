@@ -16,7 +16,7 @@ Given assumptions 1 and 2, if the forecasted price exceeds the markets expected 
 
 # Tasks
 
-Assumption 1
+Assumption 1:
 
 - [ ] Get historical stock data
 - [ ] Get monthly data
