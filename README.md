@@ -4,15 +4,19 @@
 
 <b>Assumption 1:</b>
 
-If a stock has exhibited a steady growth rate over the last several quarters, years, seasons, etc., then we assume that we can forecast its price over future quarters, years, seasons given the histrocal growth rate exhibited over previous periods.
+Normal market activity for future periods.
 
 <b>Assumption 2:</b>
+
+If a stock has exhibited a steady growth rate over the last several periods (quarters, years, seasons, etc.), then given assumption 1, we can accurately forecast the stock's price in future periods given the histrocal growth rate exhibited over previous periods.
+
+<b>Assumption 3:</b>
 
 An option contract’s strike and premium together at a specific expiration are an indicator of the market’s expectation of the stock’s price at that time.
 
 <b>Hypothesis:</b>
 
-Given assumptions 1 and 2, if the forecasted price exceeds the markets expected price, a mispricing exists.
+Given the assumptions, if the forecasted price exceeds the market's expected price, a mispricing exists.
 
 The option contracts with the greatest mispricing are thus the most undervalued options.
 
@@ -20,11 +24,16 @@ The option contracts with the greatest mispricing are thus the most undervalued 
 
 Assumption 1:
 
+- [ ] Get sector data
+- [ ] Analyze news headlines
+
+Assumption 2:
+
 - [ ] Get historical stock data
 - [ ] Get monthly data
 - [ ] Organize monthly data into seasonal data
 
-Assumption 2:
+Assumption 3:
 
 - [ ] Get option prices
 - [ ] Create option valuation model
