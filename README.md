@@ -16,8 +16,13 @@ Given assumptions 1 and 2, if the forecasted price exceeds the markets expected 
 
 # Tasks
 
-[  ] Get historical stock data
-[  ] Get monthly data
-[  ] Organize monthly data into seasonal data
-[  ] Get option prices
-[  ] Create option valuation model
+Assumption 1
+
+- [ ] Get historical stock data
+- [ ] Get monthly data
+- [ ] Organize monthly data into seasonal data
+
+Assumption 2:
+
+- [ ] Get option prices
+- [ ] Create option valuation model
