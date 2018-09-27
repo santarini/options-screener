@@ -29,7 +29,7 @@ Assumption 1:
 
 Assumption 2:
 
-- [x] Get historical stock data
+- [x] <a href="https://github.com/santarini/historical-price-statistics">Get historical stock data</a>
 - [ ] Get monthly data
 - [ ] Get historical earnings release dates
 - [ ] <a href="https://github.com/santarini/montecarlo">Monte Carlo forecast</a>
